@@ -19,8 +19,6 @@
 *.tar.gz
 *.rar
 *.iml
-*.DS_Store
-src/META-INF/
 
 /out/
 .idea/
